@@ -1,0 +1,24 @@
+#products {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#products td,
+#products th {
+  padding: 5px;
+}
+
+#products th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  color: #0077b6;
+}
+
+.productBlock {
+  border: 1px solid #ccc;
+}
+
+.productBlock:hover {
+  background-color: #e0e0e0;
+}

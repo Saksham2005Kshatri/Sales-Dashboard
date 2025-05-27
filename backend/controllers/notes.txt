@@ -1,0 +1,28 @@
+const getProducts = asyncHandler(async (req, res) => {
+  const productCount = await Product.countDocuments();
+  let currentIndex = 0;
+
+  const {data_limit} = req.query;
+
+  console.log(productCount);
+
+  const intervalId = setInterval(async () => {
+    if (currentIndex >= productCount) {
+      clearInterval(intervalId);
+      console.log("IF STATEMENT HITT???!!!");
+      return;
+    }
+
+    try {
+      const products = await Product.find().skip(currentIndex).limit(data_limit);
+
+      console.log(products);
+      res.json(products);
+    } catch (error) {
+      console.log("Something went wrong ", error);
+    }
+
+    // return products;
+    currentIndex += 3; // Adjust the increment if you want to skip by more or fewer documents
+  }, process.env.PRODUCT_DATA_TIME);
+});

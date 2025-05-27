@@ -1,0 +1,12 @@
+product_id,product_name,brand_name,cost_price,selling_price,category,expiry_date,quantity
+41,Metronidazole,Theraflow,14475,36278,HVAC,12/31/2023,32.0
+42,rexall aspirin,Meditex,15662,77977,Drywall & Acoustical (MOB),1/28/2024,43.0
+43,simvastatin,Cardivex,28258,99275,EIFS,12/13/2023,39.0
+44,Albuterol Sulfate,Neuravex,14286,61436,"Temp Fencing, Decorative Fencing and Gates",5/26/2024,47.0
+45,PROPOFOL,Tranquilix,17037,58295,"Temp Fencing, Decorative Fencing and Gates",7/7/2024,32.0
+46,Sensipar,Meditex,29277,52011,Sitework & Site Utilities,9/24/2023,47.0
+47,Kroger Kids Sunscreen,Pharmora,12161,74817,Glass & Glazing,8/13/2024,50.0
+48,Good Sense Tussin CF,Theraflow,11908,64487,Overhead Doors,2/27/2024,25.0
+49,Gabapentin,Symbionix,14885,42589,Curb & Gutter,10/22/2023,16.0
+50,Ludens Honey Lemon Throat Drops,Healixor,16387,67924,Roofing (Asphalt),9/28/2023,50.0
+51,Cetirizine Hydrochloride,Meditex,26809,70429,Site Furnishings,10/5/2023,50.0

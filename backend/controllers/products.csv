@@ -1,0 +1,101 @@
+product_id,product_name,brand_name,cost_price,selling_price,category,expiry_date
+1,SUDAN GRASS POLLEN,"Allergy Laboratories, Inc.",227,140,Fire Protection,6/24/2024
+2,Argentum Vesica urinaria 8/5 Special Order,Uriel Pharmacy Inc.,234,162,Prefabricated Aluminum Metal Canopies,5/10/2024
+3,PHENDIMETRAZINE TARTRATE,"Actavis, Inc.",262,182,Landscaping & Irrigation,12/22/2023
+4,Rivastigmine Tartrate,"Breckenridge Pharmaceutical, Inc",96,163,Plumbing & Medical Gas,12/25/2023
+5,Motion Sickness Relief,SUPERVALU INC.,250,197,Sitework & Site Utilities,11/12/2023
+6,MDSolarSciences SPF40 No Touch Body,"Ecometics, Inc",201,78,Framing (Wood),11/8/2023
+7,Bahia Grass,"Nelco Laboratories, Inc.",125,107,Glass & Glazing,4/24/2024
+8,Ropinirole Hydrochloride,Wockhardt Limited,246,293,Curb & Gutter,6/1/2024
+9,Tramadol Hydrochloride and Acetaminophen,Zydus Pharmaceuticals (USA) Inc.,90,118,Rebar & Wire Mesh Install,1/30/2024
+10,Waterless Anti-Bacterial Hand Cleanser,Tri-Coastal Design Company Inc.,149,260,Asphalt Paving,2/16/2024
+11,Freshscent Antibacterial Deodorant,"New World Imports, Inc",225,256,Glass & Glazing,3/22/2024
+12,IBUPROFEN,STAT Rx USA LLC,138,189,Asphalt Paving,2/27/2024
+13,Clonidine Hydrochloride,"NCS HealthCare of KY, Inc dba Vangard Labs",178,112,Curb & Gutter,10/17/2023
+14,Veil Fluid Makeup Sable,"Kingdom Animalia, LLC. DBA Hourglass Cosmetics",57,106,Waterproofing & Caulking,5/11/2024
+15,Softlips Peach Mango,The Mentholatum Company,44,196,Curb & Gutter,7/27/2024
+16,FENTANYL,Mylan Pharmaceuticals Inc.,196,156,Termite Control,3/31/2024
+17,Quetiapine fumarate,TYA Pharmaceuticals,255,178,Marlite Panels (FED),7/31/2024
+18,SuperSmile Professional,"ROBELL RESEARCH, INC.",80,93,Structural and Misc Steel (Fabrication),9/6/2023
+19,QUDEXY,"Upsher-Smith Laboratories, Inc.",125,74,Electrical and Fire Alarm,7/29/2024
+20,Hawaiian Tropic Island Sport SPF 30,"Accra-Pac, Inc.",205,235,Masonry & Precast,6/18/2024
+21,Dilaudid,Purdue Pharma LP,157,186,EIFS,10/23/2023
+22,SKIN CAVIAR CONCEALER FOUNDATION SUNSCREEN SPF 15 - Soleil Peche,"La Prairie, Inc.",96,218,Site Furnishings,7/7/2024
+23,AGE INTERVENTION DUALITY,"G.S. COSMECEUTICAL USA, INC.",44,186,Retaining Wall and Brick Pavers,3/24/2024
+24,VESIcare,"Physicians Total Care, Inc.",91,114,Curb & Gutter,7/29/2024
+25,TOPIRAMATE,Torrent Pharmaceuticals Limited,189,241,Granite Surfaces,8/13/2024
+26,Panace 40 (Number 65),Paramesh Banerji Life Sciences LLC,148,193,Structural & Misc Steel Erection,8/18/2024
+27,Antibacterial Foaming Hand Cleanser,"Jets, Sets, & Elephants Beauty Corp.",264,224,Drywall & Acoustical (MOB),12/27/2023
+28,Diclofenac,"Akorn, Inc.",107,78,Ornamental Railings,5/13/2024
+29,Aurum 6,Uriel Pharmacy Inc.,286,220,"Doors, Frames & Hardware",11/25/2023
+30,CLOMIPRAMINE HYDROCHLORIDE,American Health Packaging,272,55,EIFS,5/31/2024
+31,Stoko Refresh,"Evonik Stockhausen, LLC",239,202,Roofing (Metal),11/3/2023
+32,Bisoprolol Fumarate and Hydrochlorothiazide,Bryant Ranch Prepack,98,86,RF Shielding,5/11/2024
+33,Fentanyl Citrate,Cantrell Drug Company,166,297,Roofing (Metal),6/2/2024
+34,daytime pe nitetime,Publix Super Markets Inc,197,200,Landscaping & Irrigation,7/1/2024
+35,Ideal Flawless,"Avon Products, Inc",152,67,Electrical and Fire Alarm,11/28/2023
+36,Anticoagulant Citrate Dextrose A,Citra Labs,281,161,Structural and Misc Steel (Fabrication),4/20/2024
+37,Levothyroxine Sodium,"Preferred Pharmaceuticals, Inc",134,97,Glass & Glazing,1/22/2024
+38,RHIZOPUS ARRHIZUS VAR ARRHIZUS,"ALK-Abello, Inc.",234,43,Ornamental Railings,12/19/2023
+39,LARIN Fe 1/20,Northstar Rx LLC,206,129,Epoxy Flooring,5/5/2024
+40,voriconazole,American Health Packaging,229,242,Painting & Vinyl Wall Covering,11/30/2023
+41,Metronidazole,ReadyMeds,100,185,HVAC,12/31/2023
+42,rexall aspirin,"Dolgencorp, LLC",250,83,Drywall & Acoustical (MOB),1/28/2024
+43,simvastatin,"Preferred Pharmaceuticals, Inc.",64,242,EIFS,12/13/2023
+44,Albuterol Sulfate,Bausch & Lomb Incorporated,116,40,"Temp Fencing, Decorative Fencing and Gates",5/26/2024
+45,PROPOFOL,"Hospira, Inc.",52,202,"Temp Fencing, Decorative Fencing and Gates",7/7/2024
+46,Sensipar,Cardinal Health,217,141,Sitework & Site Utilities,9/24/2023
+47,Kroger Kids Sunscreen,THE KROGER CO,97,168,Glass & Glazing,8/13/2024
+48,Good Sense Tussin CF,L. Perrigo Company,134,99,Overhead Doors,2/27/2024
+49,Gabapentin,Proficient Rx,141,226,Curb & Gutter,10/22/2023
+50,Ludens Honey Lemon Throat Drops,"Prestige Brands Holdings, Inc.",200,290,Roofing (Asphalt),9/28/2023
+51,Cetirizine Hydrochloride,"Taro Pharmaceuticals U.S.A., Inc.",50,227,Site Furnishings,10/5/2023
+52,Ibuprofen,"Stephen L. LaFrance Pharmacy, Inc.",230,286,Drilled Shafts,8/2/2024
+53,LEVOFLOXACIN,"PACK Pharmaceuticals, LLC",205,70,Landscaping & Irrigation,10/1/2023
+54,HAWAIIAN Tropic,Energizer Personal Care LLC,294,42,Termite Control,4/11/2024
+55,zaleplon,Rebel Distributors Corp,47,166,Sitework & Site Utilities,5/12/2024
+56,Sertraline Hydrochloride,State of Florida DOH Central Pharmacy,153,283,Granite Surfaces,8/19/2024
+57,Pramipexole Dihydrochloride,Lake Erie Medical DBA Quality Care Products LLC,216,57,Prefabricated Aluminum Metal Canopies,8/9/2024
+58,equate daytime nitetime,Wal-Mart Stores Inc,145,274,"Doors, Frames & Hardware",4/19/2024
+59,Metoprolol succinate,Major Pharmaceuticals,295,188,Granite Surfaces,11/1/2023
+60,Minocin,"Onset Dermatologics, LLC",196,298,EIFS,1/11/2024
+61,equaline triple antibiotic,Supervalu Inc,48,181,Epoxy Flooring,10/13/2023
+62,CLARINS BB Skin Perfecting Cream SPF 25 Tint 00,Laboratoires Clarins S.A.,128,92,Electrical and Fire Alarm,6/5/2024
+63,Dexamethasone sodium phosphate,Mylan Institutional LLC,217,143,Marlite Panels (FED),3/3/2024
+64,Famotidine,Chain Drug Marketing Association Inc.,50,62,HVAC,4/25/2024
+65,CapCof,"Capital Pharmaceutical, LLC",55,187,Casework,12/15/2023
+66,Olanzapine and Fluoxetine,Sandoz Inc,47,128,Elevator,8/25/2023
+67,RANITIDINE,WOCKHARDT USA LLC.,273,69,Glass & Glazing,3/5/2024
+68,Hydroxyzine Pamoate,REMEDYREPACK INC.,178,66,Elevator,4/12/2024
+69,JEUNCELL Hair restorer and Hair Growth Solution,Jeun Cell Ltd,167,244,Drilled Shafts,2/6/2024
+70,Oral Analgesic,"LIFElabs, a Division of Atico International USA, INC.",82,77,Painting & Vinyl Wall Covering,10/21/2023
+71,Lorazepam,REMEDYREPACK INC.,228,109,Ornamental Railings,3/20/2024
+72,NATURAL SUN AQ SUPER PERFECT SUN,"THEFACESHOP CO., LTD.",81,153,Ornamental Railings,6/10/2024
+73,Lamotrigine,Mylan Institutional Inc.,275,88,Soft Flooring and Base,6/15/2024
+74,LBEL NATURAL FINISH MOISTURIZING FOUNDATION SPF 25,Ventura Corporation LTD,283,73,Construction Clean and Final Clean,2/18/2024
+75,sinus pressure and congestion relief,Rite Aid Corporation,295,50,Waterproofing & Caulking,6/3/2024
+76,Lamotrigine,Mylan Pharmaceuticals Inc.,110,68,HVAC,12/15/2023
+77,KETOCONAZOLE,KAISER FOUNDATION HOSPITALS,239,113,Curb & Gutter,3/18/2024
+78,SEROQUEL,AstraZeneca Pharmaceuticals LP,300,189,Framing (Wood),12/28/2023
+79,Galantamine,Cadila Healthcare Limited,84,161,Casework,4/14/2024
+80,Nighttime Sleep Easy,P and L Development of New York Corporation (ReadyInCase),149,238,Masonry & Precast,12/5/2023
+81,nifedipine,Contract Pharmacy Services-PA,183,297,Asphalt Paving,8/6/2024
+82,Parasite Detox,"Energique, Inc.",62,185,Masonry & Precast,3/25/2024
+83,sotalol hydrochloride,"Eon Labs, Inc.",149,67,Curb & Gutter,9/16/2023
+84,Antibacterial Hand Towelettes,"Jets, Sets, & Elephants Beauty Corp.",44,162,Construction Clean and Final Clean,7/9/2024
+85,Trazodone Hydrochloride,Clinical Solutions Wholesale,180,155,Marlite Panels (FED),7/14/2024
+86,Cefdinir,LUPIN PHARMACEUTICALS INC,273,299,Fire Protection,5/8/2024
+87,Topical 60 Sec Sodium Fluoride,Patterson Dental Supply Inc,112,232,Electrical,4/7/2024
+88,Meloxicam,"PD-Rx Pharmaceuticals, Inc.",233,218,EIFS,5/24/2024
+89,Geum urbanum e rad. 5,Uriel Pharmacy Inc.,164,242,EIFS,5/24/2024
+90,Levonorgestrel,"Watson Pharma, Inc.",182,119,Glass & Glazing,12/30/2023
+91,Cut Care Benzalkonium Chloride Antiseptic,Zeus Medical Holdings LLC,50,44,"Temp Fencing, Decorative Fencing and Gates",3/11/2024
+92,NARAMIN,National Pharma Industries Inc,167,54,Waterproofing & Caulking,5/26/2024
+93,Methotrexate,Pfizer Laboratories Div Pfizer Inc.,135,227,Wall Protection,1/1/2024
+94,Ofloxacin,Dr. Reddy's Laboratories Limited,254,147,Waterproofing & Caulking,7/12/2024
+95,Skin Corrective BB Cream Broad Spectrum SPF15 Sunscreen,Dolgencorp Inc.,124,165,Fire Sprinkler System,6/16/2024
+96,Pramipexole Dihydrochloride,Aurobindo Pharma Limited,101,153,Painting & Vinyl Wall Covering,7/6/2024
+97,ANTI-AGING CONCEALER FACE EYES SUNSCREEN SPF 20 Shade 30,"La Prairie, Inc.",98,52,Drywall & Acoustical (FED),10/3/2023
+98,Allergy Medicine,"Stephen L. LaFrance Pharmacy, Inc.",245,178,Fire Sprinkler System,3/25/2024
+99,Night Time Original,Equaline,262,56,Overhead Doors,3/8/2024
+100,Secura Protective,"Smith & Nephew, Inc.",56,152,Electrical and Fire Alarm,8/31/2023
