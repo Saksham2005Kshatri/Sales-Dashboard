@@ -15,7 +15,10 @@ const app = express();
 // cors middleware
 app.use(
   cors({
-    origin: ["http://localhost:3000"],
+    origin: [
+      "http://localhost:3000", 
+      "https://sk-sales-dashboard.onrender.com"
+    ],
     methods: ["GET", "POST", "PUT", "DELETE"],
     credentials: true,
     allowedHeaders: ["Content-Type"],
@@ -28,6 +31,6 @@ app.use(cookieParser());
 
 app.use("/api", router);
 
-const PORT = process.env.PORT || 8000
+const PORT = process.env.PORT ||
 
 app.listen(PORT, () => console.log(`Server listening in port ${PORT}`));
