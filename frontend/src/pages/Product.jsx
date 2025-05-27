@@ -25,7 +25,7 @@ const Product = ({ product }) => {
   const [profit, setProfit] = useState(0);
 
   const fetchIndividualData = async () => {
-    const response = await axios.get(`http://localhost:8000/api/product/${id}`);
+    const response = await axios.get(`https://sales-dashboard-server.onrender.com/api/product/${id}`);
     const qty = response.data.product.quantity;
     setProductName(response.data.product.productName);
     setBrandName(response.data.product.brandName);

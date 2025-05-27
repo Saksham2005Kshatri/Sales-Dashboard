@@ -32,7 +32,7 @@ const Brand = () => {
     const fetchData = async () => {
       try {
         const response = await axios.get(
-          `http://localhost:8000/api/brand/${brand}`
+          `https://sales-dashboard-server.onrender.com/api/brand/${brand}`
         );
         const { productsByBrand } = response.data;
         const productsWithDetails = productsByBrand.map((product, index) => {

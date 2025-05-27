@@ -18,9 +18,9 @@ const Products = () => {
   useEffect(() => {
     const fetchProducts = async () => {
       try {
-        const response = await axios.get("http://localhost:8000/api/products");
+        const response = await axios.get("https://sales-dashboard-server.onrender.com/api/products");
         const productsWithDetails = response.data.map((product, index) => {
-          const revenue =
+          const revenue = 
             parseInt(product.quantity) * parseInt(product.sellingPrice);
           const profit = parseInt(product.sellingPrice) - product.costPrice;
 
