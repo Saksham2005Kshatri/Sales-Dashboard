@@ -7,7 +7,6 @@ import cookieParser from "cookie-parser";
 import router from "./routes/route.js";
 
 dotenv.config();
-const { PORT } = process.env;
 
 mongooseConnect();
 
@@ -28,5 +27,7 @@ app.use(express.json());
 app.use(cookieParser());
 
 app.use("/api", router);
+
+const PORT = process.env.PORT || 8000
 
 app.listen(PORT, () => console.log(`Server listening in port ${PORT}`));
